@@ -13,7 +13,7 @@ Car Rental Management Web Design and Software Solution Agency Landing Page.
 3. React Hooks
 4. Event Handlers
 5. Arrow Functions
-6. React Tostify
+6. React Testify
 7. EmailJs-com
 8. Font Awesome
 9. Google Fonts
@@ -30,5 +30,5 @@ Car Rental Management Web Design and Software Solution Agency Landing Page.
 #
 ### `Landing Page`
 #
-![image](https://github.com/user-attachments/assets/192b854a-f405-454e-8820-59ca3f95af54)
+![image](https://github.com/user-attachments/assets/9149ebb7-294f-46f1-b152-0a50d19e9435)
 #
